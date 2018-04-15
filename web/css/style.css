@@ -880,7 +880,8 @@ ul.tags_links li a:hover{
 	text-decoration:none;
 }
 .new-product{
-	width:78%;
+	/* width:78%; */
+	width:100%;
 	float:right;
 	background:rgba(245, 243, 243, 0.27);
 	min-height:800px;
@@ -892,7 +893,7 @@ ul.product-top-list{
 }
 ul.product-top-list li{
 	display: inline-block;
-	font-size:0.82em;
+	font-size: 16px;
 	color:#777;
 }
 ul.product-top-list li a{
@@ -1239,11 +1240,11 @@ ul.product-top-list{
 	padding:0;
 	float: left;
 }
-ul.product-top-list li{
+/* ul.product-top-list li{
 	display: inline-block;
 	font-size:0.82em;
 	color:#777;
-}
+} */
 p.back{
 	float: right;
 	font-size:0.82em;
